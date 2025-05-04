@@ -60,11 +60,11 @@ bot.onText(/\/elenco/, (msg) => {
     chatId,
     "🧑‍💻 *Elenco da FURIA - CS2* 👩‍💻\n\n" +
       "Conheça os jogadores da FURIA, que estão dominando as competições de CS2! 💥\n\n" +
-      "🎮 *YEKINDAR* (Mareks Gaļinskis) - Rifler (Stand-in)\n" +
-      "🎮 *molodoy* (Danil Golubenko) - Sniper\n" +
+      "🎮 *Chelo* (Marcelo Cespedes) - Entry Fragger)\n" +
+      "🎮 *Skullz* (Felipe Medeiros) - Âncora\n" +
       "🎮 *yuurih* (Yuri Gomes dos Santos Boian) - Rifler\n" +
       "🎮 *KSCERATO* (Kaike Silva Cerato) - Rifler\n" +
-      "🎮 *FalleN* (Gabriel Toledo de Alcântara Sguario) - IGL (In-Game Leader)\n\n" +
+      "🎮 *FalleN* (Gabriel Toledo de Alcântara Sguario) - IGL (AWPer & Capitão)\n\n" +
       "🧑‍🏫 *Técnico:* Sidnei 'sidde' Macedo\n" +
       "🎮 *Assistente Técnico:* Aydin 'krizzeN' Turlybekov (Kazakhstan)\n\n" +
       "Juntos, eles formam uma equipe imbatível! 💥"
